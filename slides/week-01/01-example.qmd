@@ -12,6 +12,7 @@ format:
     incremental: false 
     chalkboard: true
     center: true
+  pdf: default
 execute:
   freeze: auto
   echo: true
