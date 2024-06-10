@@ -11,7 +11,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Week\n\n\nDates\n\n\nTopic\n\n\n\n\n\n\nWeek 01\n\n\nAug 29 - Sep 02\n\n\nWelcome to Intro Data Science\n\n\n\n\nWeek 02\n\n\nSep 05 - 09\n\n\nVisualizing Data\n\n\n\n\nWeek 03\n\n\nSep 12 - 16\n\n\nWrangling Data\n\n\n\n\n\nNo matching items",
+    "text": "Week\n\n\nDates\n\n\nTopic\n\n\n\n\n\n\nWeek 01\n\n\nAug 29 - Sep 02\n\n\nIntroduction to Statistical Methods I\n\n\n\n\nWeek 02\n\n\nSep 05 - 09\n\n\nIntroduction to Statistical Methods II\n\n\n\n\nWeek 03\n\n\nSep 12 - 16\n\n\nHypothesis Testing\n\n\n\n\nWeek 04\n\n\nSep 12 - 16\n\n\nRegression\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Schedule"
     ]
@@ -21,7 +21,7 @@
     "href": "schedule.html#weekly-schedule",
     "title": "Schedule",
     "section": "",
-    "text": "Week\n\n\nDates\n\n\nTopic\n\n\n\n\n\n\nWeek 01\n\n\nAug 29 - Sep 02\n\n\nWelcome to Intro Data Science\n\n\n\n\nWeek 02\n\n\nSep 05 - 09\n\n\nVisualizing Data\n\n\n\n\nWeek 03\n\n\nSep 12 - 16\n\n\nWrangling Data\n\n\n\n\n\nNo matching items",
+    "text": "Week\n\n\nDates\n\n\nTopic\n\n\n\n\n\n\nWeek 01\n\n\nAug 29 - Sep 02\n\n\nIntroduction to Statistical Methods I\n\n\n\n\nWeek 02\n\n\nSep 05 - 09\n\n\nIntroduction to Statistical Methods II\n\n\n\n\nWeek 03\n\n\nSep 12 - 16\n\n\nHypothesis Testing\n\n\n\n\nWeek 04\n\n\nSep 12 - 16\n\n\nRegression\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Schedule"
     ]
@@ -41,70 +41,14 @@
     "href": "weeks/week-01.html",
     "title": "Week 01",
     "section": "",
-    "text": "Lectures\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nWelcome to Intro Data Science\n\n\nMon, Aug 29\n\n\n\n\nMeet the Toolkit\n\n\nWed, Aug 31\n\n\n\n\n\nNo matching items\n\n\n\n\nAssignments\nThere are no assignments scheduled this week.\n\n\nReadings\n\n\n\n\n\n\nCourse Syllabus\n\n\nR for Data Science: Chapter 2 - Introduction\n\n\nIntro to Modern Data Science: Chapter 1 - Hello data"
+    "text": "Lectures\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nIntroduction to statistical methods I\n\n\nMon, Aug 29\n\n\n\n\nKey terms: What is data etc.\n\n\nWed, Aug 31\n\n\n\n\nProbability Theory\n\n\nWed, Aug 31\n\n\n\n\n\nNo matching items\n\n\n\n\nKey Topics\n\nKey terms: What is data etc.\nProbability theory\nRandomness / Distributions\nStandard deviations\n\n\n\nAssignments\nThere are no assignments scheduled this week.\n\n\nReadings\n\n\n\n\n\n\nCourse Syllabus\n\n\nR for Data Science: Chapter 2 - Introduction\n\n\nIntro to Modern Data Science: Chapter 1 - Hello data"
   },
   {
-    "objectID": "weeks/week-02.html",
-    "href": "weeks/week-02.html",
-    "title": "Week 02",
+    "objectID": "weeks/week-04.html",
+    "href": "weeks/week-04.html",
+    "title": "Week 04",
     "section": "",
-    "text": "Lectures\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nVisualizing data with ggplot2\n\n\nMon, Sep 05\n\n\n\n\nVisualizing numeric data\n\n\nWed, Sep 07\n\n\n\n\nVisualizing categorical data\n\n\nWed, Sep 07\n\n\n\n\n\nNo matching items\n\n\n\n\nAssignments\n\n\n\n\n\nAssignment\n\n\nTitle\n\n\nDue\n\n\n\n\n\n\nHomework\n\n\nHW 01: Pet Names\n\n\nWed, Sep 14\n\n\n\n\nLab\n\n\nLab 01: Hello R!\n\n\nFri, Sep 16\n\n\n\n\n\nNo matching items\n\n\n\n\nReadings\n\nR for Data Science: Chapter 3 - Data Visualization\nIntroduction for Modern Statistics: Chapter 4 - Exploring Categorical Data\nIntroduction to Modern Statistics: Chapter 5- Exploring Numerical Data"
-  },
-  {
-    "objectID": "slides/week-01/02-demo.html#bullet-point-list",
-    "href": "slides/week-01/02-demo.html#bullet-point-list",
-    "title": "Meet the Toolkit",
-    "section": "Bullet point list",
-    "text": "Bullet point list"
-  },
-  {
-    "objectID": "slides/week-01/02-demo.html#incremental-list",
-    "href": "slides/week-01/02-demo.html#incremental-list",
-    "title": "Meet the Toolkit",
-    "section": "Incremental list",
-    "text": "Incremental list"
-  },
-  {
-    "objectID": "slides/week-01/02-demo.html#equations",
-    "href": "slides/week-01/02-demo.html#equations",
-    "title": "Meet the Toolkit",
-    "section": "Equations",
-    "text": "Equations"
-  },
-  {
-    "objectID": "slides/week-01/02-demo.html#code",
-    "href": "slides/week-01/02-demo.html#code",
-    "title": "Meet the Toolkit",
-    "section": "Code",
-    "text": "Code"
-  },
-  {
-    "objectID": "slides/week-01/02-demo.html#images",
-    "href": "slides/week-01/02-demo.html#images",
-    "title": "Meet the Toolkit",
-    "section": "Images",
-    "text": "Images"
-  },
-  {
-    "objectID": "slides/week-01/02-demo.html#columns",
-    "href": "slides/week-01/02-demo.html#columns",
-    "title": "Meet the Toolkit",
-    "section": "Columns",
-    "text": "Columns"
-  },
-  {
-    "objectID": "slides/week-01/02-demo.html#panels",
-    "href": "slides/week-01/02-demo.html#panels",
-    "title": "Meet the Toolkit",
-    "section": "Panels",
-    "text": "Panels"
-  },
-  {
-    "objectID": "slides/week-01/02-demo.html#themes",
-    "href": "slides/week-01/02-demo.html#themes",
-    "title": "Meet the Toolkit",
-    "section": "Themes",
-    "text": "Themes\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\n\nSpecify the theme and/or Sass file (.scss) in the YAML\n\n\n\n\n🔗 rstudio-conf-2022.github.io/teach-ds-course-website"
+    "text": "Key Topics\n\nInterpretation\nRegression Analysis\nCorrelation and Causation\n\n\n\nLectures\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nGrammar of data wrangling\n\n\nMon, Sep 12\n\n\n\n\nWorking with a single data frame\n\n\nMon, Sep 12\n\n\n\n\nWorking with multiple data frames\n\n\nWed, Sep 14\n\n\n\n\n\nNo matching items\n\n\n\n\nAssignments\n\n\n\n\n\nReadings"
   },
   {
     "objectID": "hw/w3-hw02.html",
@@ -203,65 +147,128 @@
   {
     "objectID": "slides/week-01/01-example.html#bullet-point-list",
     "href": "slides/week-01/01-example.html#bullet-point-list",
-    "title": "Welcome to Intro Data Science",
+    "title": "Introduction to statistical methods I",
     "section": "Bullet point list",
     "text": "Bullet point list\nUnordered\n\nItem A\nItem B\nItem C\n\nOrdered\n\nItem 1\nItem 2\nItem 3"
   },
   {
     "objectID": "slides/week-01/01-example.html#incremental-list",
     "href": "slides/week-01/01-example.html#incremental-list",
-    "title": "Welcome to Intro Data Science",
+    "title": "Introduction to statistical methods I",
     "section": "Incremental list",
     "text": "Incremental list\n\n\nItem 1\nItem 2\nItem 3"
   },
   {
     "objectID": "slides/week-01/01-example.html#equations",
     "href": "slides/week-01/01-example.html#equations",
-    "title": "Welcome to Intro Data Science",
+    "title": "Introduction to statistical methods I",
     "section": "Equations",
     "text": "Equations\nWrite mathematical symbols and equations using Latex.\nUse the formulas below to calculate \\(\\hat{\\beta}_1\\), the estimated slope, and \\(\\hat{\\beta}_0\\), the estimated intercept.\n\\[\n\\begin{aligned}\n&\\hat{\\beta}_1 = r \\frac{s_y}{s_x} \\\\\n&\\hat{\\beta}_0 = \\bar{y} - \\hat{\\beta}_1 \\bar{x}\n\\end{aligned}\n\\]"
   },
   {
     "objectID": "slides/week-01/01-example.html#code",
     "href": "slides/week-01/01-example.html#code",
-    "title": "Welcome to Intro Data Science",
+    "title": "Introduction to statistical methods I",
     "section": "Code",
     "text": "Code\n\n# Use code chunk option fig-align: center to center the plot. \nggplot(data = penguins, aes(x = flipper_length_mm, y = body_mass_g, \n                            color = species)) + \n         geom_point() + \n  labs(x = \"Flipper Length (in mm)\",y = \"Body Mass (in g)\",\n       title = \"Flipper length vs. body mass\",\n       subtitle = \"Penguins at Palmer Station, Antartica\") +\n  scale_color_viridis_d()"
   },
   {
     "objectID": "slides/week-01/01-example.html#images",
     "href": "slides/week-01/01-example.html#images",
-    "title": "Welcome to Intro Data Science",
+    "title": "Introduction to statistical methods I",
     "section": "Images",
     "text": "Images\n\nArtwork by @allison_horst"
   },
   {
     "objectID": "slides/week-01/01-example.html#columns",
     "href": "slides/week-01/01-example.html#columns",
-    "title": "Welcome to Intro Data Science",
+    "title": "Introduction to statistical methods I",
     "section": "Columns",
     "text": "Columns\n\n\nCalculate the proportion of penguins from each species.\n\n\npenguins |&gt;\n  count(species) |&gt;\n  mutate(prop  = n / sum(n))\n\n# A tibble: 3 × 3\n  species       n  prop\n  &lt;fct&gt;     &lt;int&gt; &lt;dbl&gt;\n1 Adelie      152 0.442\n2 Chinstrap    68 0.198\n3 Gentoo      124 0.360"
   },
   {
     "objectID": "slides/week-01/01-example.html#panels",
     "href": "slides/week-01/01-example.html#panels",
-    "title": "Welcome to Intro Data Science",
+    "title": "Introduction to statistical methods I",
     "section": "Panels",
     "text": "Panels\n\nPlotCode\n\n\n\npenguins |&gt;\n  filter(species == \"Adelie\", !is.na(sex)) |&gt;\n  ggplot(aes(x = flipper_length_mm, y = body_mass_g, color = sex)) + \n  geom_point() +\n  labs(x = \"Flipper Length (in mm)\",y = \"Body Mass (in g)\",\n       title = \"Flipper length vs. body mass\",\n       subtitle = \"Adelie Penguins at Palmer Station, Antartica\") +\n  scale_color_viridis_d() + \n  facet_wrap(~island)\n\n\n\n\n\n\n\n\n\n\n\npenguins |&gt;\n  filter(species == \"Adelie\", !is.na(sex)) |&gt;\n  ggplot(aes(x = flipper_length_mm, y = body_mass_g, color = sex)) + \n  geom_point() +\n  labs(x = \"Flipper Length (in mm)\",y = \"Body Mass (in g)\",\n       title = \"Flipper length vs. body mass\",\n       subtitle = \"Adelie Penguins at Palmer Station, Antartica\") +\n  scale_color_viridis_d() + \n  facet_wrap(~island)"
   },
   {
     "objectID": "slides/week-01/01-example.html#themes",
     "href": "slides/week-01/01-example.html#themes",
-    "title": "Welcome to Intro Data Science",
+    "title": "Introduction to statistical methods I",
     "section": "Themes",
     "text": "Themes\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\nCreate custom thing using Sass\n\nSpecify the theme and/or Sass file (.scss) in the YAML\n\n\n\n\n🔗 rstudio-conf-2022.github.io/teach-ds-course-website"
+  },
+  {
+    "objectID": "slides/week-01/02-demo.html#bullet-point-list",
+    "href": "slides/week-01/02-demo.html#bullet-point-list",
+    "title": "Key terms: What is data etc.",
+    "section": "Bullet point list",
+    "text": "Bullet point list"
+  },
+  {
+    "objectID": "slides/week-01/02-demo.html#incremental-list",
+    "href": "slides/week-01/02-demo.html#incremental-list",
+    "title": "Key terms: What is data etc.",
+    "section": "Incremental list",
+    "text": "Incremental list"
+  },
+  {
+    "objectID": "slides/week-01/02-demo.html#equations",
+    "href": "slides/week-01/02-demo.html#equations",
+    "title": "Key terms: What is data etc.",
+    "section": "Equations",
+    "text": "Equations"
+  },
+  {
+    "objectID": "slides/week-01/02-demo.html#code",
+    "href": "slides/week-01/02-demo.html#code",
+    "title": "Key terms: What is data etc.",
+    "section": "Code",
+    "text": "Code"
+  },
+  {
+    "objectID": "slides/week-01/02-demo.html#images",
+    "href": "slides/week-01/02-demo.html#images",
+    "title": "Key terms: What is data etc.",
+    "section": "Images",
+    "text": "Images"
+  },
+  {
+    "objectID": "slides/week-01/02-demo.html#columns",
+    "href": "slides/week-01/02-demo.html#columns",
+    "title": "Key terms: What is data etc.",
+    "section": "Columns",
+    "text": "Columns"
+  },
+  {
+    "objectID": "slides/week-01/02-demo.html#panels",
+    "href": "slides/week-01/02-demo.html#panels",
+    "title": "Key terms: What is data etc.",
+    "section": "Panels",
+    "text": "Panels"
+  },
+  {
+    "objectID": "slides/week-01/02-demo.html#themes",
+    "href": "slides/week-01/02-demo.html#themes",
+    "title": "Key terms: What is data etc.",
+    "section": "Themes",
+    "text": "Themes\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\n\nSpecify the theme and/or Sass file (.scss) in the YAML\n\n\n\n\n🔗 rstudio-conf-2022.github.io/teach-ds-course-website"
+  },
+  {
+    "objectID": "weeks/week-02.html",
+    "href": "weeks/week-02.html",
+    "title": "Week 02",
+    "section": "",
+    "text": "Key Topics\n\nBayesian Theory\nEconometric Modelling\n\n\n\nLectures\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nVisualizing data with ggplot2\n\n\nMon, Sep 05\n\n\n\n\nVisualizing numeric data\n\n\nWed, Sep 07\n\n\n\n\nVisualizing categorical data\n\n\nWed, Sep 07\n\n\n\n\n\nNo matching items\n\n\n\n\nAssignments\n\n\n\n\n\nAssignment\n\n\nTitle\n\n\nDue\n\n\n\n\n\n\nHomework\n\n\nHW 01: Pet Names\n\n\nWed, Sep 14\n\n\n\n\nLab\n\n\nLab 01: Hello R!\n\n\nFri, Sep 16\n\n\n\n\n\nNo matching items\n\n\n\n\nReadings\n\nR for Data Science: Chapter 3 - Data Visualization\nIntroduction for Modern Statistics: Chapter 4 - Exploring Categorical Data\nIntroduction to Modern Statistics: Chapter 5- Exploring Numerical Data"
   },
   {
     "objectID": "weeks/week-03.html",
     "href": "weeks/week-03.html",
     "title": "Week 03",
     "section": "",
-    "text": "Lectures\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nGrammar of data wrangling\n\n\nMon, Sep 12\n\n\n\n\nWorking with a single data frame\n\n\nMon, Sep 12\n\n\n\n\nWorking with multiple data frames\n\n\nWed, Sep 14\n\n\n\n\n\nNo matching items\n\n\n\n\nAssignments\n\n\n\n\n\nAssignment\n\n\nTitle\n\n\nDue\n\n\n\n\n\n\nHomework\n\n\nHW 02: Data visualization\n\n\nWed, Sep 21\n\n\n\n\nLab\n\n\nLab 02: Data visualization with ggplot2!\n\n\nFri, Sep 23\n\n\n\n\n\nNo matching items\n\n\n\n\nReadings"
+    "text": "Key Topics\n\nHypothesis Development\nHypothesis Testing\nSampling\n\n\n\nLectures\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nGrammar of data wrangling\n\n\nMon, Sep 12\n\n\n\n\nWorking with a single data frame\n\n\nMon, Sep 12\n\n\n\n\nWorking with multiple data frames\n\n\nWed, Sep 14\n\n\n\n\n\nNo matching items\n\n\n\n\nAssignments\n\n\n\n\n\nAssignment\n\n\nTitle\n\n\nDue\n\n\n\n\n\n\nHomework\n\n\nHW 02: Data visualization\n\n\nWed, Sep 21\n\n\n\n\nLab\n\n\nLab 02: Data visualization with ggplot2!\n\n\nFri, Sep 23\n\n\n\n\n\nNo matching items\n\n\n\n\nReadings"
   },
   {
     "objectID": "index.html",

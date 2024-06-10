@@ -4,14 +4,24 @@
     "items": [
       "/weeks/week-01.html",
       "/weeks/week-02.html",
-      "/weeks/week-03.html"
+      "/weeks/week-03.html",
+      "/weeks/week-04.html"
     ]
   },
   {
     "listing": "/weeks/week-01.html",
     "items": [
       "/slides/week-01/01-example.html",
-      "/slides/week-01/02-demo.html"
+      "/slides/week-01/02-demo.html",
+      "/slides/week-01/03-probability.html"
+    ]
+  },
+  {
+    "listing": "/weeks/week-04.html",
+    "items": [
+      "/slides/week-03/06-grammar-data-wrangle.html",
+      "/slides/week-03/07-single-data-frame.html",
+      "/slides/week-03/08-multiple-data-frames.html"
     ]
   },
   {

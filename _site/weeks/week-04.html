@@ -9,7 +9,7 @@
 <meta name="author" content="">
 <meta name="description" content="Sep 12 - 16">
 
-<title>BSSC0021 - Business Statistics and Data Analytics - Week 03</title>
+<title>BSSC0021 - Business Statistics and Data Analytics - Week 04</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -99,34 +99,6 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-assignments .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-categories','listing-title','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-assignments'] = new List('listing-assignments', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
   </script>
 
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
@@ -170,7 +142,7 @@ window.Quarto = {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Week 03</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Week 04</li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -233,15 +205,15 @@ window.Quarto = {
   <li><a href="#assignments" id="toc-assignments" class="nav-link" data-scroll-target="#assignments">Assignments</a></li>
   <li><a href="#readings" id="toc-readings" class="nav-link" data-scroll-target="#readings">Readings</a></li>
   </ul>
-<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="week-03.pdf"><i class="bi bi-file-pdf"></i>Typst</a></li></ul></div></nav>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="week-04.pdf"><i class="bi bi-file-pdf"></i>Typst</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Week 03</h1>
-<p class="subtitle lead">Hypothesis Testing</p>
+<h1 class="title">Week 04</h1>
+<p class="subtitle lead">Regression</p>
 </div>
 
 <div>
@@ -266,9 +238,9 @@ window.Quarto = {
 <section id="key-topics" class="level1">
 <h1>Key Topics</h1>
 <ol class="example" type="1">
-<li>Hypothesis Development</li>
-<li>Hypothesis Testing</li>
-<li>Sampling</li>
+<li>Interpretation</li>
+<li>Regression Analysis</li>
+<li>Correlation and Causation</li>
 </ol>
 </section>
 <section id="lectures" class="level1">
@@ -319,49 +291,8 @@ No matching items
 </section>
 <section id="assignments" class="level1">
 <h1>Assignments</h1>
-<div id="listing-assignments" class="quarto-listing quarto-listing-container-table">
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-Assignment
-</th>
-<th>
-Title
-</th>
-<th>
-Due
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-categories="Homework" data-listing-date-sort="1663718400000" data-listing-file-modified-sort="1718057308001" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5" data-listing-title-sort="HW 02: Data visualization" data-listing-filename-sort="w3-hw02.qmd">
-<td>
-<span class="listing-categories">Homework</span>
-</td>
-<td>
-<a href="../hw/w3-hw02.html" class="title listing-title">HW 02: Data visualization</a>
-</td>
-<td>
-<span class="listing-date">Wed, Sep 21</span>
-</td>
-</tr>
-<tr data-index="1" data-categories="Lab" data-listing-date-sort="1663891200000" data-listing-file-modified-sort="1718057308001" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5" data-listing-title-sort="Lab 02: Data visualization with ggplot2!" data-listing-filename-sort="w3-lab02.qmd">
-<td>
-<span class="listing-categories">Lab</span>
-</td>
-<td>
-<a href="../labs/w3-lab02.html" class="title listing-title">Lab 02: Data visualization with ggplot2!</a>
-</td>
-<td>
-<span class="listing-date">Fri, Sep 23</span>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
+<div id="assignments">
+
 </div>
 </section>
 <section id="readings" class="level1">

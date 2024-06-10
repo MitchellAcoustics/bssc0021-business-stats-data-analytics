@@ -1,5 +1,5 @@
 ---
-title: "Meet the Toolkit"
+title: "Key terms: What is data etc."
 date: "August 31, 2022"
 footer: "[🔗 rstudio-conf-2022.github.io/teach-ds-course-website](https://rstudio-conf-2022.github.io/teach-ds-course-website)"
 logo: "../images/logo.png"

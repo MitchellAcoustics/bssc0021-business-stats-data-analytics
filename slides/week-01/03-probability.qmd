@@ -1,0 +1,18 @@
+---
+title: "Probability Theory"
+date: "August 31, 2022"
+footer: "[🔗 rstudio-conf-2022.github.io/teach-ds-course-website](https://rstudio-conf-2022.github.io/teach-ds-course-website)"
+logo: "../images/logo.png"
+format: 
+  revealjs:
+    transition: fade
+    slide-number: true
+    incremental: false 
+    chalkboard: true
+    center: true
+execute:
+  freeze: auto
+editor_options: 
+  markdown: 
+    wrap: 72
+---

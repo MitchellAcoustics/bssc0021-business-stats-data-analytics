@@ -1,6 +1,6 @@
 ---
 title: "Week 01"
-subtitle: "Welcome to Intro Data Science"
+subtitle: "Introduction to Statistical Methods I"
 description: "Aug 29 - Sep 02"
 author: ""
 date: ""
@@ -38,6 +38,13 @@ tbl-colwidths: [10,50,40]
 
 ::: {#slides}
 :::
+
+# Key Topics
+
+(@) Key terms: What is data etc.
+(@) Probability theory
+(@) Randomness / Distributions
+(@) Standard deviations
 
 # Assignments
 
